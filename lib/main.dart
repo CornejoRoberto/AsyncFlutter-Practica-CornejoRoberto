@@ -102,7 +102,7 @@ class _AnimatedScreenState extends State<AnimatedScreen> {
                     height: 70.0,
                     child: Center(
                         child: Icon(
-                      Icons.charging_station_rounded,
+                      Icons.flash_on,
                       color: Colors.black,
                       size: 30,
                     )),
@@ -139,7 +139,7 @@ class _AnimatedScreenState extends State<AnimatedScreen> {
                     height: 70.0,
                     child: Center(
                         child: Icon(
-                      Icons.coffee_maker_outlined,
+                      Icons.directions_car,
                       color: Colors.black,
                       size: 30,
                     )),
@@ -176,7 +176,7 @@ class _AnimatedScreenState extends State<AnimatedScreen> {
                     height: 70.0,
                     child: Center(
                         child: Icon(
-                      Icons.currency_bitcoin,
+                      Icons.directions_walk,
                       color: Colors.black,
                       size: 30,
                     )),
